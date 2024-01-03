@@ -1,1 +1,19 @@
 
+.div1{
+    text-align: center;
+    background-color: rgb(165, 21, 21);
+    color:crimson
+
+} 
+
+.div2{
+    font-size: 30px;text-align: center;
+    background-color: brown;
+}
+.div3{
+    border-top:5px solid black
+}
+.div5{
+    font-size: 50px;
+    padding:50px;
+}
